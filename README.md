@@ -46,7 +46,7 @@ Follow these steps to set up the project on your local machine:
 
 ### 1️⃣ Clone the Repository
 ```bash
- git clone https://github.com/your-username/3d-image-generator.git
+ git clone https://github.com/FNICKE/3d-image-generator.git
  cd 3d-image-generator
 ```
 
